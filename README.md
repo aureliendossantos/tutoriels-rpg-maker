@@ -6,6 +6,8 @@
 
 * [Système d'infiltration complet](https://github.com/rpgmakeralliance/tutoriels/tree/master/rme-infiltration)
 
+* [Système de sol glissant](https://github.com/rpgmakeralliance/tutoriels/tree/master/rme-sol-glissant)
+
 ## RGSS3
 
 * [Apprendre le RGSS3 avec un pierre-papier-ciseaux](https://github.com/rpgmakeralliance/tutoriels/tree/master/rgss3-chifoumi)
